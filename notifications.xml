@@ -1,7 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="FindBugs: Plugin Suggestion" displayType="STICKY_BALLOON" />
-    <notification groupId="FindBugs: R-File Filter Suggestion" displayType="STICKY_BALLOON" />
+    <notification groupId="FindBugs: Plugin Suggestion" displayType="NONE" shouldLog="false" />
+    <notification groupId="FindBugs: R-File Filter Suggestion" displayType="NONE" shouldLog="false" />
     <notification groupId="Indexing" />
   </component>
 </application>
